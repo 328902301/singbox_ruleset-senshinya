@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "vanithaveedu.com",
+        "vanitaonline.com",
+        "manoramanews.com",
+        "manoramayearbook.in",
+        "manorama.com",
+        "radiomango.fm",
+        "vanitha.in",
+        "theweek.in",
+        "malayalamanorama.com",
+        "manoramaonline.com",
+        "onmanorama.com",
+        "theman.in"
+      ]
+    }
+  ],
+  "version": 2
+}

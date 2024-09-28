@@ -1,0 +1,30 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "updates.cdn-apple.com",
+        "xp.apple.com",
+        "ns.itunes.apple.com",
+        "updates-http.cdn-apple.com"
+      ],
+      "domain_suffix": [
+        "mesu-cdn.origin-apple.com.akadns.net",
+        "mesu.g.aaplimg.com",
+        "mesu.apple.com",
+        "gdmf.apple.com",
+        "appldnld-lb.apple.com.akadns.net",
+        "ocsp-lb.apple.com.akadns.net",
+        "appldnld.g.aaplimg.com",
+        "swscan.apple.com",
+        "appldnld.apple.com.akadns.net",
+        "mesu-cdn.apple.com.akadns.net",
+        "ocsp.apple.com",
+        "gdmf.apple.com.akadns.net",
+        "appldnld.apple.com",
+        "ocsp.g.aaplimg.com",
+        "gg.apple.com"
+      ]
+    }
+  ],
+  "version": 2
+}
