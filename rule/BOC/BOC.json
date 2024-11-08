@@ -1,0 +1,31 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "boccfc.cn",
+        "boc.cn",
+        "boccfc.cc",
+        "bocichina.com.cn",
+        "bocim.com",
+        "bocifunds.com",
+        "bocifunds.cn",
+        "bocaviation.com",
+        "bocamchina.com",
+        "bocfullertonbank.com",
+        "bocgins.com",
+        "bankofchina.com",
+        "bocichina.com",
+        "bocgi.com",
+        "bocigroup.com",
+        "bank-of-china.com",
+        "bochk.com",
+        "bocifunds.com.cn",
+        "bochkonline.com",
+        "bocservices.com.cn",
+        "bocichina.cn",
+        "ftcwifi.com"
+      ]
+    }
+  ],
+  "version": 2
+}

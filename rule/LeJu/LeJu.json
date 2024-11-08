@@ -1,0 +1,29 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "leju.cn",
+        "91leju.com.cn",
+        "houseimg.com",
+        "91leju.net",
+        "leju.com",
+        "dichan.net",
+        "ljimg.com",
+        "xhaiwai.com",
+        "quanup.com",
+        "jiajuimg.com",
+        "ileju.com",
+        "yiqisooimg.com",
+        "esfimg.com",
+        "xhwhouse.com",
+        "sousea.com",
+        "ileju.cn",
+        "dichan.com",
+        "91leju.cn",
+        "xhwhouse.cn",
+        "fangdudu.com"
+      ]
+    }
+  ],
+  "version": 2
+}
