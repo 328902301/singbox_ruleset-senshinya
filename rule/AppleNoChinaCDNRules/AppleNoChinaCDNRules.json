@@ -1,0 +1,47 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "uts-api.itunes.apple.com",
+        "gspe1-ssl.ls.apple.com",
+        "developer.apple.com",
+        "mask-api.icloud.com",
+        "docs-assets.developer.apple.com",
+        "news-edge.apple.com",
+        "cvws.icloud-content.com",
+        "apple.comscoreresearch.com",
+        "mask-api.fe.apple-dns.net",
+        "mask-t.apple-dns.net",
+        "play-edge.itunes.apple.com",
+        "tv.applemusic.com",
+        "news-events.apple.com",
+        "devstreaming-cdn.apple.com",
+        "cdn.apple-cloudkit.com",
+        "hls-svod.itunes.apple.com",
+        "mask.apple-dns.net",
+        "testflight.apple.com",
+        "np-edge.itunes.apple.com",
+        "devimages-cdn.apple.com",
+        "news-assets.apple.com",
+        "mask.icloud.com",
+        "sandbox.itunes.apple.com",
+        "mask-h2.icloud.com",
+        "news-client.apple.com",
+        "js-cdn.music.apple.com"
+      ],
+      "domain_suffix": [
+        "hls.itunes.apple.com",
+        "apple-dns.net",
+        "tv.apple.com",
+        "audio-ssl.itunes.apple.com",
+        "apple.news",
+        "hls-amt.itunes.apple.com",
+        "digicert.com",
+        "cdn-apple.com",
+        "blobstore.apple.com",
+        "ocsp.apple.com"
+      ]
+    }
+  ],
+  "version": 2
+}
