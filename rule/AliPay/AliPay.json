@@ -1,0 +1,30 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "sinopayment.com.cn",
+        "alipay-corp.com",
+        "alipaylog.com",
+        "alipay",
+        "alipaydev.com",
+        "alipay.com.cn",
+        "alipay-traffic.com",
+        "alipay-eco.com",
+        "alipay.com",
+        "alipaymo.com",
+        "alipaydesign.com",
+        "alipay.cn",
+        "ifaa.org.cn",
+        "alipayeshop.com",
+        "alipay.net",
+        "alipay-inc.com",
+        "alipay.hk",
+        "alipayplus.com",
+        "alipayobjects.com",
+        "alipaydns.com",
+        "luohanacademy.com"
+      ]
+    }
+  ],
+  "version": 2
+}

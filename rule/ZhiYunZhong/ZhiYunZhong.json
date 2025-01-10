@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "appgrub.com",
+        "igo52.com",
+        "optaim.com",
+        "optaim.cn",
+        "cloudau.cn",
+        "iappad.com",
+        "iapprank.com",
+        "2taobao2jd.com"
+      ]
+    }
+  ],
+  "version": 2
+}

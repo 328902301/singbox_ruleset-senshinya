@@ -1,0 +1,44 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "quobuz.com",
+        "cobuz.fr",
+        "qobuz.eu",
+        "qobuz.ch",
+        "qobuz.tv",
+        "cobuzz.fr",
+        "qobuz.lu",
+        "qobuz.com",
+        "qobuz.de",
+        "qobuz.ro",
+        "qobuz.biz",
+        "qobuz.gr",
+        "qobuz.pl",
+        "qobuz.at",
+        "qobuz.lt",
+        "qobuz.ca",
+        "qobuz.hk",
+        "cobeuz.fr",
+        "qobuz.us",
+        "qobuz.fr",
+        "static-qobuz.com",
+        "qobuz.co.uk",
+        "kobuz.fr",
+        "qobuz.org",
+        "qobuz.fi",
+        "qobuz.se",
+        "qobuz.info",
+        "qobuz.it",
+        "quobuz.fr",
+        "qobuz.net",
+        "qobuz.be"
+      ],
+      "ip_cidr": [
+        "52.211.1.180/32",
+        "99.81.97.56/32"
+      ]
+    }
+  ],
+  "version": 2
+}
