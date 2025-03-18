@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "gogoanime.vc",
+        "vrv.co",
+        "9anime.to",
+        "9anime.cz",
+        "gogo-load.com",
+        "hidive.com",
+        "animedao-tv.com",
+        "9anime.ws",
+        "crunchyroll.com",
+        "funimation.com",
+        "gogocdn.net",
+        "gogoanime.wiki",
+        "9anime.id"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,27 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "japps.cn",
+        "jsurvey.cn",
+        "kc9.cn",
+        "easytomessage.com",
+        "jiguang.cn",
+        "jmlk.co",
+        "5566ua.com",
+        "n0q.cn",
+        "e0n.cn",
+        "pushcfg.com",
+        "aurorapush.cn",
+        "jpush.cn",
+        "jpushoa.com",
+        "jvoice.cn",
+        "jpush.io",
+        "jchat.io",
+        "42r.cn",
+        "s0n.cn"
+      ]
+    }
+  ],
+  "version": 2
+}
