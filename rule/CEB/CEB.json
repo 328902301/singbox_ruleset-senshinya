@@ -1,0 +1,24 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "ebscn.com",
+        "ebchina.com",
+        "cebbank.com",
+        "ebtrust.com",
+        "ceblease.com",
+        "sunlife-everbright.com",
+        "ebscn-am.com",
+        "ebfcn.com",
+        "ebchinaintl.com",
+        "secec.com",
+        "everbright.com",
+        "eb-ind.com",
+        "ebasset.com",
+        "ebf.com.cn",
+        "ebfortune.com"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "pixiv.co.jp",
+        "pixiv.net",
+        "pixiv.me",
+        "pixiv.org",
+        "fanbox.cc",
+        "pixiv.cat",
+        "pximg.net",
+        "booth.pm"
+      ]
+    }
+  ],
+  "version": 2
+}
