@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "luojilab.com",
+        "igetget.com",
+        "saolife.com",
+        "biji.com",
+        "igetget.cn",
+        "mogoo.com",
+        "ddmogo.com",
+        "sao.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

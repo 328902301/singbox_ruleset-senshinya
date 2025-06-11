@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "xinghua.org.cn",
+        "51job.com",
+        "51mdd.com",
+        "51jingying.com",
+        "51miduoduo.com",
+        "yingjiesheng.net",
+        "51laiqiang.com",
+        "yingjiesheng.org",
+        "coolping.com",
+        "51ideal.com",
+        "51hr.com",
+        "yingjiesheng.com",
+        "zhiding.com.cn",
+        "51jobcdn.com",
+        "correlation-one.cn",
+        "wuyoudagong.com",
+        "ibmcampus.com",
+        "myyjs.com",
+        "maketion.com"
+      ]
+    }
+  ],
+  "version": 2
+}
