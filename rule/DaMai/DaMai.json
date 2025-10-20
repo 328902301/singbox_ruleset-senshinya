@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "dmcdn.cn",
+        "piao.com.cn",
+        "piaogroup.com",
+        "damaicdn.cn",
+        "baotoo.com",
+        "maitix.net",
+        "maikr.com",
+        "yanchupiaojia.com",
+        "damai.cn",
+        "maitix.com",
+        "jtwsm.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

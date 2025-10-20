@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "iotboss.cn",
+        "flymodem.com.cn",
+        "esound.net.cn",
+        "bjesound.com",
+        "esound.cn",
+        "flymodem.cn",
+        "esound.vip",
+        "flymodem.net",
+        "earlymen.com.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,25 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "meridian.net",
+        "racked.com",
+        "curbed.com",
+        "theverge.com",
+        "voxfieldguide.com",
+        "voxmedia.com",
+        "cstatic.net",
+        "funnyordie.com",
+        "polygon.com",
+        "recode.net",
+        "vox.com",
+        "eater.com",
+        "vox-cdn.com",
+        "sbnation.com",
+        "voxops.net",
+        "voxcreative.com"
+      ]
+    }
+  ],
+  "version": 2
+}

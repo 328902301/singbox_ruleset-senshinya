@@ -1,0 +1,23 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "freessl.com",
+        "geotrust.com",
+        "digitalcertvalidation.com",
+        "thawte.com",
+        "digicert.cn",
+        "thawte.de",
+        "dcocsp.cn",
+        "digicert-cn.com",
+        "quovadisglobal.com",
+        "thawte.fr",
+        "digicert-validation.com",
+        "digicert.com",
+        "rapidssl.com",
+        "public-trust.com"
+      ]
+    }
+  ],
+  "version": 2
+}

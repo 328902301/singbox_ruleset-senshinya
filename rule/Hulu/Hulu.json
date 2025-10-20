@@ -1,0 +1,74 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "live-mediashield-ava-hulustream-com.akamaized.net"
+      ],
+      "domain_suffix": [
+        "huluteam.com",
+        "yb.uncn.jp",
+        "hulu.com",
+        "huluitaly.com",
+        "112263.com",
+        "hulustream.com",
+        "hulupurchase.com",
+        "hulusports.com",
+        "wwwhuluplus.com",
+        "assetshuluimcom-a.akamaihd.net",
+        "hulu.us",
+        "hulupremium.com",
+        "hulufree.com",
+        "hu1u.com",
+        "thehulubraintrust.com",
+        "hulucall.com",
+        "huluplus.com",
+        "originalhulu.com",
+        "hulunetwork.com",
+        "mushymush.tv",
+        "myhulu.com",
+        "hoolu.tv",
+        "huloo.cc",
+        "findyourlimits.com",
+        "hulutv.com",
+        "joinmaidez.com",
+        "hulunet.com",
+        "huluspain.com",
+        "payhulu.com",
+        "callhulu.com",
+        "hulugermany.com",
+        "cws-hulu.conviva.com",
+        "hulu.tv",
+        "huloo.tv",
+        "hulu.hb.omtrdc.net",
+        "hulu.jp",
+        "huluim.com",
+        "huluapp.com",
+        "hooloo.tv",
+        "huluaction.com",
+        "huluusa.com",
+        "huluasks.com",
+        "streaks.jp",
+        "registerhulu.com",
+        "hjholdings.jp",
+        "hulugans.com",
+        "hoolu.com",
+        "freehulu.com",
+        "hulurussia.com",
+        "huluad.com",
+        "huluinstantmessenger.com",
+        "prod.hjholdings.tv",
+        "hulugo.com",
+        "hulu.sc.omtrdc.net",
+        "hulu.playback.edge.bamgrid.com",
+        "happyon.jp",
+        "huluqa.com"
+      ]
+    },
+    {
+      "process_name": [
+        "com.hulu.plus"
+      ]
+    }
+  ],
+  "version": 2
+}
