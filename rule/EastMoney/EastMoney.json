@@ -1,0 +1,42 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "dingqibao.com",
+        "caimi.cn",
+        "zhongcaisuo.com.cn",
+        "samacn.org.cn",
+        "huoqibao.cn",
+        "huoqibao.com",
+        "zhongcaisuo.com",
+        "caifutong.com.cn",
+        "huoqibao.com.cn",
+        "xzsec.com",
+        "emsec.hk",
+        "caimi.com.cn",
+        "dingqibao.cn",
+        "eastmoney.com",
+        "tiantianfunds.cn",
+        "zhaiba.com",
+        "eastmoneyfutures.com",
+        "haitunzhibo.com",
+        "txjhqh.com",
+        "langke.tv",
+        "zhongcaisuo.cn",
+        "dfcfs.com",
+        "uufund.cn",
+        "1234567.com.cn",
+        "18.cn",
+        "uufund.com",
+        "95021.com",
+        "dingqibao.com.cn",
+        "dfcfs.cn",
+        "guba.com.cn",
+        "dongfanglicaishi.com",
+        "dfcfw.com",
+        "18.com.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

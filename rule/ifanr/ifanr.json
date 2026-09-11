@@ -1,0 +1,43 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "minshop.com",
+        "ifanr.com",
+        "app.so",
+        "dongchehui.net",
+        "jmp.gd",
+        "xiaoapp.io",
+        "ifdesigninc.cn",
+        "coolbuy.com",
+        "ifanrcloud.com",
+        "wuzhii.com",
+        "ifanrusercontent.com",
+        "fabu.io",
+        "weimen.hu",
+        "socialbaseusercontent.com",
+        "01hub.com",
+        "appsolution.cc",
+        "tyqian.com",
+        "ifanr.in",
+        "wantwu.com",
+        "menhu.io",
+        "ifanrprod.com",
+        "ifdesignstudio.cn",
+        "ifanrprod.net",
+        "minapp.com",
+        "socialbase.cn",
+        "bitbe.at",
+        "triorder.com",
+        "mindstore.io",
+        "ifanrprod.cn",
+        "socialbasecustomercontent.com",
+        "xiaoma.io",
+        "haomaishe.com",
+        "ifanr.cn",
+        "zhixiaochengxu.com"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,23 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "vitamio.tv",
+        "vplayer.net",
+        "xiaokaxiu.com",
+        "vbbobo.com",
+        "vitamio.net",
+        "weishipin.com",
+        "yixia.com",
+        "iyuezhang.net",
+        "yixiatong.com",
+        "miaopai.com",
+        "xiaoka.tv",
+        "huangka.com",
+        "miaokan.com",
+        "vitamio.org"
+      ]
+    }
+  ],
+  "version": 2
+}
